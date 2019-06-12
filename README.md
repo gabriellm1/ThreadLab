@@ -15,6 +15,6 @@
     
         make
         ./uicp teste teste2 // to try directory cp
-        ./uicp bigfile.rar teste_f.rar // to try rar cp
+        ./uicp bigfile.rar teste_f.rar // to try file cp
     
 
